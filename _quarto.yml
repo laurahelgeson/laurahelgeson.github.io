@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Laura Helgeson"
+  favicon: resources/initials.png
+  navbar:
+    search: false
+    logo: resources/initials.png
+    right:
+      - href: index.qmd
+        text: About
+      - href: design.qmd
+        text: Costumes
+      - href: textile.qmd
+        text: Textiles
+      - href: cv.qmd
+        text: CV
+  #page-footer:
+  #  center:
+  #    - icon: envelope
+  #      href: mailto:laurhelg.g@gmail.com
+  #      aria-label: email
+
+format:
+  html:
+    theme:
+      light: light.css
+      dark: dark.css
+    toc: true
+    email-obfuscation: references

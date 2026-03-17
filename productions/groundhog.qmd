@@ -1,0 +1,45 @@
+---
+title: "Groundhog Day: The Musical"
+subtitle: Lakewood Theatre Company
+author: Bryce Britton
+date: 04/01/2025
+date-format: "MMMM YYYY"
+image: groundhog/cover_groundhog.avif
+lightbox: 
+  match: auto
+  effect: zoom
+toc: false
+page-layout: full
+language: 
+  title-block-author-single: "Director"
+  title-block-published: "Date"
+include-in-header:
+      text: |
+        <style>
+        h1.title {
+          text-align: center;
+          padding: 10px
+        }
+        p.subtitle {
+          text-align: center;
+          padding: 10px
+        }
+        .quarto-title-meta-heading {
+          display: none;
+        }
+        .quarto-title-meta-contents {
+          display: none;
+        }
+        </style>
+---
+
+## Photos
+
+| | | |
+|:---:|:---:|:---:|
+| ![](groundhog/groundhog_1.avif){group="groundhog" .lightbox} | ![](groundhog/groundhog_2.avif){group="groundhog" .lightbox} | ![](groundhog/groundhog_3.avif){group="groundhog" .lightbox} |
+| ![](groundhog/groundhog_4.avif){group="groundhog" .lightbox} | ![](groundhog/groundhog_5.avif){group="groundhog" .lightbox} | ![](groundhog/groundhog_6.avif){group="groundhog" .lightbox} |
+| ![](groundhog/groundhog_7.avif){group="groundhog" .lightbox} | ![](groundhog/groundhog_8.avif){group="groundhog" .lightbox} | ![](groundhog/groundhog_9.avif){group="groundhog" .lightbox} |
+| ![](groundhog/groundhog_10.avif){group="groundhog" .lightbox} | ![](groundhog/groundhog_11.avif){group="groundhog" .lightbox} | ![](groundhog/groundhog_12.avif){group="groundhog" .lightbox} |
+
+: {.custom-table}

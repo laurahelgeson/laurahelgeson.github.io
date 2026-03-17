@@ -1,0 +1,114 @@
+---
+title: Curriculum Vitae
+subtitle: <a href="/resources/Laura_CV.pdf" class="d-inline-flex align-items-center text-decoration-none">PDF\ \ <i class="bi-download"></i></a>
+toc: false
+page-layout: full
+include-in-header:
+      text: |
+        <style>
+        h1.title, p.subtitle {
+          text-align: center;
+          padding: 10px
+        }
+        </style>
+---
+
+## Education
+
+**Portland State University** | University Honors College <span style="float: right;">Sept. 2020 to Jun. 2024</span>\
+B.F.A. in Art Practice, _Cum Laude_
+
+
+## Experience
+
+**Costume Manager** | Lakewood Center for the Arts <span style="float: right;">Jul. 2024 to Present</span>
+
+**Costume Manager** | Portland State University <span style="float: right;">Sept. 2024 to Mar. 2025</span>\
+School of Music & Theatre
+
+**Adjunct Instructor** | Portland State University <span style="float: right;">Jan. 2025 to Mar. 2025</span>\
+School of Music & Theatre\
+
+**Apparel Designer & Store Manager** | Shirts & Skins Inc. <span style="float: right;">Nov. 2023 to Feb. 2024</span>
+
+## Productions
+
+::: {layout-ncol=2 style="list-style-type: none; color: inherit;"}
+
+::: {.column}
+**Geography of a Horse Dreamer** | Imago, the Theatre Mask Ensemble\
+Lead Costume Designer | Feb. 2026
+
+<br>
+
+**A Design for Living** | Imago, the Theatre Mask Ensemble\
+Lead Costume Designer | Oct. 2025
+
+<br>
+
+**Dracula** | Lakewood Theatre Company\
+Lead Costume Designer | Sept. 2025
+
+<br>
+
+**a home what howls** | Milagro Theatre Company\
+Lead Costume Designer | May 2025
+
+<br>
+
+**Groundhog Day: The Musical** | Lakewood Theatre Company\
+Lead Costume Designer | Apr. 2025
+
+<br>
+
+**Rossam's Universal Robots** | Lakewood Theatre Company\
+Lead Costume Designer | Sept. 2024
+
+<br>
+
+**Jersey Boys** | Lakewood Theatre Company\
+Lead Costume Designer | Jul. 2024
+:::
+
+::: {.column}
+
+**The Wolves** | Portland State University\
+Assistant Costume Designer | May 2024
+
+<br>
+
+**9 to 5** | Portland State University\
+Assistant Costume Designer | Apr. 2024
+
+<br>
+
+**Measure for Measure** | Portland State University\
+Lead Costume Designer | Feb. 2024
+
+<br>
+
+**The Magic Flute** | Portland State University\
+Stitcher | Mar. 2023
+
+<br>
+
+**Frontieres Sans Frontieres** | Portland State University\
+Wardrobe Technician | Nov. 2022
+
+<br>
+
+**No Exit** | Portland State University\
+Wardrobe Technician | May 2022
+:::
+
+:::
+
+## Awards \& Scholarships
+**Oregon Theatrical Awards Society**\
+Best Costume Design --- _Jersey Boys_ <span style="float: right;">Jul. 2025</span>
+
+**Alaska Pulp Corporation**\
+Alaska Pulp Corporation Scholarship <span style="float: right;">Sept. 2020 to Jun. 2024</span>
+
+**Alaska Community Foundation**\
+Anna Loftus Ream Scholarship <span style="float: right;">Sept. 2020 to Jun. 2022</span>

@@ -1,0 +1,43 @@
+---
+title: The Wolves
+subtitle: Portland State University
+author: Christine Freije
+date: 05/01/2024
+date-format: "MMMM YYYY"
+image: wolves/cover_wolves.avif
+lightbox: 
+  match: auto
+  effect: zoom
+toc: false
+page-layout: full
+language: 
+  title-block-author-single: "Director"
+  title-block-published: "Date"
+include-in-header:
+      text: |
+        <style>
+        h1.title {
+          text-align: center;
+          padding: 10px
+        }
+        p.subtitle {
+          text-align: center;
+          padding: 10px
+        }
+        .quarto-title-meta-heading {
+          display: none;
+        }
+        .quarto-title-meta-contents {
+          display: none;
+        }
+        </style>
+---
+
+## Photos
+
+| | | |
+|:---:|:---:|:---:|
+| ![](wolves/wolves_1.avif){group="wolves" .lightbox} | ![](wolves/wolves_2.avif){group="wolves" .lightbox} | ![](wolves/wolves_3.avif){group="wolves" .lightbox} |
+| ![](wolves/wolves_4.avif){group="wolves" .lightbox} | ![](wolves/wolves_5.avif){group="wolves" .lightbox} | ![](wolves/wolves_6.avif){group="wolves" .lightbox} |
+
+: {.custom-table}

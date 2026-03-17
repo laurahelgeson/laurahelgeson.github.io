@@ -1,0 +1,45 @@
+---
+title: A Design for Living
+subtitle: Imago, the Theatre Mask Ensemble
+author: Jerry Mouawad
+date: 10/01/2025
+date-format: "MMMM YYYY"
+image: living/cover_living.webp
+lightbox: 
+  match: auto
+  effect: zoom
+toc: false
+page-layout: full
+language: 
+  title-block-author-single: "Director"
+  title-block-published: "Date"
+include-in-header:
+      text: |
+        <style>
+        h1.title {
+          text-align: center;
+          padding: 10px
+        }
+        p.subtitle {
+          text-align: center;
+          padding: 10px
+        }
+        .quarto-title-meta-heading {
+          display: none;
+        }
+        .quarto-title-meta-contents {
+          display: none;
+        }
+        </style>
+---
+
+## Photos
+
+| | | |
+|:---:|:---:|:---:|
+| ![](living/living_1.jpg){group="living" .lightbox} | ![](living/living_2.jpg){group="living" .lightbox} | ![](living/living_3.jpg){group="living" .lightbox} |
+| ![](living/living_4.jpg){group="living" .lightbox} | ![](living/living_5.jpg){group="living" .lightbox} | ![](living/living_6.jpg){group="living" .lightbox} |
+| ![](living/living_7.jpg){group="living" .lightbox} | ![](living/living_8.jpg){group="living" .lightbox} | ![](living/living_9.jpg){group="living" .lightbox} |
+| ![](living/living_10.jpg){group="living" .lightbox} | ![](living/living_11.jpg){group="living" .lightbox} |
+
+: {.custom-table}

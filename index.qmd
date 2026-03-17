@@ -1,0 +1,15 @@
+---
+title: "About Me"
+about:
+  template: solana
+  image: /resources/profile_2.png
+  image-width: 24em
+  image-shape: round
+toc: false
+page-layout: full
+---
+I am an Alaska-born artist and designer based in Portland, Oregon. I currently divide my time between costume design for theatres around Portland and acting as Wardrobe Manager for Lakewood Center for the Arts in Lake Oswego. You may recognize my work from [Measure for Measure](productions/measure.qmd) and [The Wolves](productions/wolves.qmd) at Portland State University; [A Home What Howls](productions/howls.qmd) at Milagro Theatre; [A Design for Living](productions/living.qmd) at Imago Theatre; or [Jersey Boys](productions/jersey.qmd), [Rossam’s Universal Robots](productions/rur.qmd), [Groundhog Day: The Musical](productions/groundhog.qmd), and [Dracula](productions/dracula.qmd) at Lakewood Center for the Arts. 
+
+As a student at Portland State University, I performed a wide variety of roles from Wardrobe Technician to Lead Costume Designer, culminating in the opportunity to design the West Coast premiere of Aditi Brennan Kapil's translation of _Measure for Measure_. I earned my B.F.A. in June 2024 from the University Honors College with the thesis [Exploring Gender in Classical Music through Coded Weaving](textile.qmd).
+
+Outside of theatre, I create art utilizing weaving, dyeing, and garment making to explore the gendered history of textiles. 

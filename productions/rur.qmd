@@ -1,0 +1,43 @@
+---
+title: Rossam's Universal Robots
+subtitle: Lakewood Theatre Company
+author: Matt Zrebski
+date: 09/01/2024
+date-format: "MMMM YYYY"
+image: rur/cover_rur.avif
+lightbox: 
+  match: auto
+  effect: zoom
+toc: false
+page-layout: full
+language: 
+  title-block-author-single: "Director"
+  title-block-published: "Date"
+include-in-header:
+      text: |
+        <style>
+        h1.title {
+          text-align: center;
+          padding: 10px
+        }
+        p.subtitle {
+          text-align: center;
+          padding: 10px
+        }
+        .quarto-title-meta-heading {
+          display: none;
+        }
+        .quarto-title-meta-contents {
+          display: none;
+        }
+        </style>
+---
+
+## Photos
+
+| | | |
+|:---:|:---:|:---:|
+| ![](rur/rur_1.avif){group="rur" .lightbox} | ![](rur/rur_2.avif){group="rur" .lightbox} | ![](rur/rur_3.avif){group="rur" .lightbox} |
+| ![](rur/rur_4.avif){group="rur" .lightbox} | ![](rur/rur_5.avif){group="rur" .lightbox} | ![](rur/rur_6.avif){group="rur" .lightbox} |
+
+: {.custom-table}

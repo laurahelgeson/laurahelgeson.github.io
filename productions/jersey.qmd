@@ -1,0 +1,44 @@
+---
+title: Jersey Boys
+subtitle: Lakewood Theatre Company
+author: Isaac Lamb
+date: 07/01/2024
+date-format: "MMMM YYYY"
+image: jersey/cover_jersey.avif
+lightbox: 
+  match: auto
+  effect: zoom
+toc: false
+page-layout: full
+language: 
+  title-block-author-single: "Director"
+  title-block-published: "Date"
+include-in-header:
+      text: |
+        <style>
+        h1.title {
+          text-align: center;
+          padding: 10px
+        }
+        p.subtitle {
+          text-align: center;
+          padding: 10px
+        }
+        .quarto-title-meta-heading {
+          display: none;
+        }
+        .quarto-title-meta-contents {
+          display: none;
+        }
+        </style>
+---
+
+## Photos
+
+| | | |
+|:---:|:---:|:---:|
+| ![](jersey/jersey_1.avif){group="jersey" .lightbox} | ![](jersey/jersey_2.avif){group="jersey" .lightbox} | ![](jersey/jersey_3.avif){group="jersey" .lightbox} |
+| ![](jersey/jersey_4.avif){group="jersey" .lightbox} | ![](jersey/jersey_5.avif){group="jersey" .lightbox} | ![](jersey/jersey_6.avif){group="jersey" .lightbox} |
+| ![](jersey/jersey_7.avif){group="jersey" .lightbox} | ![](jersey/jersey_8.avif){group="jersey" .lightbox} |
+
+: {.custom-table}

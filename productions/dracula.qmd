@@ -1,0 +1,47 @@
+---
+title: Dracula
+subtitle: Lakewood Theatre Company
+author: Mark Pierce
+date: 09/01/2025
+date-format: "MMMM YYYY"
+image: dracula/cover_dracula.avif
+lightbox: 
+  match: auto
+  effect: zoom
+toc: false
+page-layout: full
+language: 
+  title-block-author-single: "Director"
+  title-block-published: "Date"
+include-in-header:
+      text: |
+        <style>
+        h1.title {
+          text-align: center;
+          padding: 10px
+        }
+        p.subtitle {
+          text-align: center;
+          padding: 10px
+        }
+        .quarto-title-meta-heading {
+          display: none;
+        }
+        .quarto-title-meta-contents {
+          display: none;
+        }
+        </style>
+---
+
+## Photos
+
+| | | |
+|:---:|:---:|:---:|
+| ![](dracula/dracula_1.avif){group="dracula" .lightbox} | ![](dracula/dracula_2.avif){group="dracula" .lightbox} | ![](dracula/dracula_3.avif){group="dracula" .lightbox} |
+| ![](dracula/dracula_4.avif){group="dracula" .lightbox} | ![](dracula/dracula_5.avif){group="dracula" .lightbox} | ![](dracula/dracula_6.avif){group="dracula" .lightbox} |
+| ![](dracula/dracula_7.avif){group="dracula" .lightbox} | ![](dracula/dracula_8.avif){group="dracula" .lightbox} | ![](dracula/dracula_9.avif){group="dracula" .lightbox} |
+| ![](dracula/dracula_10.avif){group="dracula" .lightbox} | ![](dracula/dracula_11.avif){group="dracula" .lightbox} | ![](dracula/dracula_12.avif){group="dracula" .lightbox} |
+| ![](dracula/dracula_13.avif){group="dracula" .lightbox} | ![](dracula/dracula_14.avif){group="dracula" .lightbox} | ![](dracula/dracula_15.avif){group="dracula" .lightbox} |
+| ![](dracula/dracula_16.avif){group="dracula" .lightbox} | ![](dracula/dracula_17.avif){group="dracula" .lightbox} | ![](dracula/dracula_18.avif){group="dracula" .lightbox} |
+
+: {.custom-table}

@@ -1,0 +1,43 @@
+---
+title: Measure for Measure
+subtitle: Portland State University
+author: Karin Magaldi
+date: 02/01/2024
+date-format: "MMMM YYYY"
+image: measure/cover_measure.avif
+lightbox: 
+  match: auto
+  effect: zoom
+toc: false
+page-layout: full
+language: 
+  title-block-author-single: "Director"
+  title-block-published: "Date"
+include-in-header:
+      text: |
+        <style>
+        h1.title {
+          text-align: center;
+          padding: 10px
+        }
+        p.subtitle {
+          text-align: center;
+          padding: 10px
+        }
+        .quarto-title-meta-heading {
+          display: none;
+        }
+        .quarto-title-meta-contents {
+          display: none;
+        }
+        </style>
+---
+
+## Photos
+
+| | | |
+|:---:|:---:|:---:|
+| ![](measure/measure_1.avif){group="measure" .lightbox} | ![](measure/measure_2.avif){group="measure" .lightbox} | ![](measure/measure_3.avif){group="measure" .lightbox} |
+| ![](measure/measure_4.avif){group="measure" .lightbox} | ![](measure/measure_5.avif){group="measure" .lightbox} | ![](measure/measure_6.avif){group="measure" .lightbox} |
+
+: {.custom-table}

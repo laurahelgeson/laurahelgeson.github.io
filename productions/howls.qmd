@@ -1,0 +1,53 @@
+---
+title: a home what howls
+subtitle: "Milagro Theatre"
+author: Lawrence Suilagi
+date: 05/01/2025
+date-format: "MMMM YYYY"
+image: howls/cover_howls.avif
+lightbox: 
+  match: auto
+  effect: zoom
+toc: false
+page-layout: full
+language: 
+  title-block-author-single: "Director"
+  title-block-published: "Date"
+include-in-header:
+      text: |
+        <style>
+        h1.title {
+          text-align: center;
+          padding: 10px
+        }
+        p.subtitle {
+          text-align: center;
+          padding: 10px
+        }
+        .quarto-title-meta-heading {
+          display: none;
+        }
+        .quarto-title-meta-contents {
+          display: none;
+        }
+        </style>
+---
+
+## Photos
+
+| | | |
+|:---:|:---:|:---:|
+| ![](howls/howls_1.avif){group="howls" .lightbox} | ![](howls/howls_2.avif){group="howls" .lightbox} | ![](howls/howls_3.avif){group="howls" .lightbox} |
+| ![](howls/howls_4.avif){group="howls" .lightbox} | ![](howls/howls_5.avif){group="howls" .lightbox} | ![](howls/howls_6.avif){group="howls" .lightbox} |
+| ![](howls/howls_7.avif){group="howls" .lightbox} | ![](howls/howls_8.avif){group="howls" .lightbox} |
+
+: {.custom-table}
+
+## Design Statement
+Inspired by the true story of the destruction of the Chavez Ravine in Los Angeles, a home what howls (or the house what was ravine) follows the protagonist Soledad Vargas as she fights injustice and bureaucracy in her city’s government in the years following the destruction of her family home. 
+
+The design process began by pulling reference images from archival footage of the Mission District in 1970s San Fransico, another predominantly Latino neighborhood in Southern California affected by gentrification. These images were then compared to those found in modern department store catalogues associated with the working class, such as JCPenney and Old Navy. By making this comparison, we find stylistic overlaps, creating a timeless silhouette that honors the history the work was based on while emphasizing the story’s modern relevance. 
+
+An earth-toned color palette, organic patterns, and natural fibers were selected to represent a connection to the earth and create a stark contrast to the industrial navy and gray tones worn by the White employees of the city government. Our protagonist, Soledad Vargas, exists between these two worlds, wearing cotton denim textures and floral prints in a predominantly blue palette. 
+
+The character that exists as the emotional centerpiece of the play, Coyotl, is intended to appear as an extension of the earth. Her distressed, sheer dress is embellished with green moss textures using a combination of felting and embroidery techniques as well as moss itself. The striking coyote mask was built by Prop Master Sarah Rowell and embellished by me using a variety of ethically sourced animal furs to create an amorphous animal silhouette.
