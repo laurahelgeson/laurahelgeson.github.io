@@ -93,7 +93,7 @@ include-in-header:
     Mozart --- Symphony No. 1
 </span>
 <span style="font-family: 'Assistant', sans-serif; color: var(--textile-text-muted); font-size: 0.9rem; font-style: italic;">
-    Cotton and Wool Thread
+    Cotton and Wool Yarn
 </span>
 <div style="color: var(--textile-accent); font-size: 0.8rem; margin-top: 15px; opacity: 0.5;">[ + ] Details</div>
 </summary>
@@ -143,7 +143,7 @@ The duration of each note is indicated by how many times the weft string passes 
   Saint-Saëns --- The Swan
 </span>
 <span style="font-family: 'Assistant', sans-serif; color: va(--textile-text-muted); font-size: 0.9rem; font-style: italic;">
-  Cotton and Wool Thread
+  Cotton and Bamboo Yarn
 </span>
 <div style="color: var(--textile-accent); font-size: 0.8rem; margin-top:15px; opacity: 0.5;">[ + ] Details</div>
 </summary>
